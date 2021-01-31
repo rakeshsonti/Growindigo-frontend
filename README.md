@@ -2,7 +2,7 @@
 
 ## Introduction :
 
-Growindigo App is simple web application where user can sign up using Name, email and mobile number where email and name are unique. If user try to sign up using duplicate email and mobile number it will show error. User can log in using email and password. When user log in and sign up then user need to put opt if user put wrong otp it will throw an error, when user put correct otp then user can successfully sign up and login.
+Growindigo App is simple web application where user can sign up using Name, email and mobile number where email and name are unique. If user try to sign up using duplicate email and mobile number it will show error. User can log in using email and password. When user log in and sign up then user need to put otp if user put wrong otp it will throw an error, when user put correct otp then user can successfully sign up and login.
 
 ## Modules:
 
@@ -49,4 +49,7 @@ Home modules is simple home page , if user put correct password,correct email, c
 7. _npm install_ install all required dependecy on your local system now run the following command to start the front of application.
 8. -  > npm start
 9. New tab would be open new few second then in chrome you can see your application ui and play with it.
-   [Git Link](https://github.com/rambhajansonti/Growindigo-frontend)
+
+##
+
+[Project Link](https://github.com/rambhajansonti/Growindigo-frontend)
