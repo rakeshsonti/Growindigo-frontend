@@ -1,0 +1,28 @@
+.maincontainer {
+   display: flex;
+   flex-direction: column;
+   width: 60% !important;
+   margin-left: 20%;
+   margin-top: 20px;
+}
+.labelStyle {
+   width: 15%;
+   font-weight: bold;
+}
+.inputStyle {
+   display: flex;
+   flex-direction: column;
+   width: 45%;
+}
+.submitBtn {
+   justify-content: space-around;
+   margin-left: 15% !important;
+}
+.itemContainer {
+   display: flex;
+   flex-direction: row;
+}
+.subHeading {
+   text-align: center !important;
+   justify-content: center;
+}
