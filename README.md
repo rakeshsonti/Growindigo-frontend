@@ -38,4 +38,15 @@ Home modules is simple home page , if user put correct password,correct email, c
 2. open new window and clone git repo. in new folder
 3. for clone repo. follow the following command.
 
--  > git clone
+-  > git clone https://github.com/rambhajansonti/Growindigo-frontend
+
+4. after clone you can see a folder named **Growindigo-frontend**
+5. try to open this folder in vscode new window
+6. now open terminal and run following command.
+
+-  > npm install
+
+7. _npm install_ install all required dependecy on your local system now run the following command to start the front of application.
+8. -  > npm start
+9. New tab would be open new few second then in chrome you can see your application ui and play with it.
+   [Git Link](https://github.com/rambhajansonti/Growindigo-frontend)
